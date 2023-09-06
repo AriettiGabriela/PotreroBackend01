@@ -1,0 +1,18 @@
+/*ESTILOS GENERALES*/
+@import url("https://fonts.googleapis.com/css2?family=Short+Stack&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url(../img/pizarron.jpg);
+  background-color: rgb(36, 36, 36);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+  font-family: "Short Stack", cursive;
+  color: rgba(255, 255, 255, 0.861);
+  font-size: 30px;
+}
+.codigo {
+  margin: 150px 100px;
+}
